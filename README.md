@@ -19,6 +19,7 @@
 - content.js: 챕터, 용어, 출처
 - models.js: 실험 설정과 계산
 - app.js: SVG 그림, UI, 탐색
+- marketwords.js: 매물 용어 22개와 프리미엄·권리·분담금 실험
 - beginner.js: 중학생용 질문, 상황 버튼, 핵심 조작, 처음·현재 비교
 
 ## 쉬운 실험 흐름
